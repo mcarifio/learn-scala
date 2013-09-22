@@ -14,4 +14,4 @@ TODO
 Bugs
 ====
 
-* intellij git can't push to github? Doublecheck credentials.
+* intellij git can't push to github? Doublecheck credentials and try using personal authentication tokens.
